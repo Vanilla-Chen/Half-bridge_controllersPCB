@@ -1,0 +1,6 @@
+*.zip
+*.PrjPcbStructure
+History/**
+Project Logs for STM32G4_V1/**
+Project Logs for STM32G4_V2/**
+Project Logs for GS_V3/**
