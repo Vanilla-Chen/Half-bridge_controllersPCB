@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=HRTIM1_CHA1 Pin=JP3-1
+Removed Pin From Net: NetName=HRTIM1_CHB1 Pin=JP3-5
+Added Pin To Net: NetName=HRTIM1_CHB1 Pin=JP3-1
+Added Pin To Net: NetName=HRTIM1_CHA1 Pin=JP3-5
